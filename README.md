@@ -1,9 +1,9 @@
 [![fd-mechain](fd-mechain.jpg)](https://github.com/franck-decaux)
 
-- <https://github.com/nsi-mechain>
-- <https://github.com/ciel-mechain>
+- Dépôt [nsi-mechain](https://github.com/nsi-mechain)
+- Dépôt [ciel-mechain](https://github.com/ciel-mechain)
 
 ---
 
-- <https://github.com/apps/desktop>
-- <https://www.marktext.cc/>
+- [Guithub Desktop](https://github.com/apps/desktop)
+- [Marktext](https://www.marktext.cc/)
