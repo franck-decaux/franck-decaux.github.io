@@ -5,5 +5,5 @@
 
 ---
 
-- [Guithub Desktop](https://github.com/apps/desktop)
+- [Github Desktop](https://github.com/apps/desktop)
 - [Marktext](https://www.marktext.cc/)
