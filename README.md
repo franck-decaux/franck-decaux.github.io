@@ -1,4 +1,4 @@
-[![fd-mechain](fd-mechain.jpg)](https://gitub.com/franck-decaux)
+[![fd-mechain](fd-mechain.jpg)](https://github.com/franck-decaux)
 
 <https://github.com/nsi-mechain>
 
