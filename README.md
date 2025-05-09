@@ -6,4 +6,5 @@
 ---
 
 - [Github Desktop](https://github.com/apps/desktop)
+- [Installer Gitub Desktop sous *Linux Min*t](https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1)
 - [Marktext](https://www.marktext.cc/)
