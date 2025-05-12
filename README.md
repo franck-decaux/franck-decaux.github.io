@@ -5,6 +5,6 @@
 
 ---
 
-- [Github Desktop](https://github.com/apps/desktop)
-- [GitHub Desktop - The Linux Fork](https://github.com/shiftkey/desktop)
-- [Marktext](https://www.marktext.cc/)
+- GUI pour*Windows* [Github Desktop](https://github.com/apps/desktop)
+- GUI pour *Linux* [GitHub Desktop - The Linux Fork](https://github.com/shiftkey/desktop)
+- Éditeur Markdown [Marktext](https://www.marktext.cc/)
