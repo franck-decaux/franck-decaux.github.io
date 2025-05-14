@@ -7,4 +7,6 @@
 
 - GUI **Git/GitHub** pour *Windows* : [Github Desktop](https://github.com/apps/desktop)
 - GUI **Git/GitHub** pour *Linux* : [GitHub Desktop - The Linux Fork](https://github.com/shiftkey/desktop)
-- Éditeur **Markdown** : [Marktext](https://www.marktext.cc/)
+- Éditeurs **Markdown** : 
+    - [Marktext](https://www.marktext.cc/)
+    - [Remarkable](http://remarkableapp.github.io/)
